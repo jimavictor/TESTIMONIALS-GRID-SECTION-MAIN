@@ -69,6 +69,9 @@ img {
 #daniel {
   color: white;
   background-color: #7541c8;
+  background-image: url("./images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: 90% 0%;
   padding: 20px;
 }
 
@@ -116,10 +119,10 @@ img {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    -ms-grid-columns: 880px 256px;
-        grid-template-columns: 880px 256px;
-    -ms-grid-rows: 575px;
-        grid-template-rows: 575px;
+    -ms-grid-columns: 880px 235px;
+        grid-template-columns: 880px 235px;
+    -ms-grid-rows: 585px;
+        grid-template-rows: 585px;
   }
   .grid-1 {
     display: -ms-grid;
@@ -139,6 +142,10 @@ img {
   }
   #kira {
     margin-left: 20px;
+  }
+  #kira-name,
+  #jeanette-name {
+    color: #19212e;
   }
 }
 /*# sourceMappingURL=style.css.map */

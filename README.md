@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/jimavictor/TESTIMONIALS-GRID-SECTION-MAIN)
-- Live Site URL: [Live Site URL]()
+- Live Site URL: [Live Site URL](https://jimavictor.github.io/TESTIMONIALS-GRID-SECTION-MAIN/)
 
 ## My process
 

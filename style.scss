@@ -50,6 +50,9 @@ img {
 #daniel {
   color: hsl(0, 0%, 100%);
   background-color: hsl(263, 55%, 52%);
+  background-image: url("./images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: 90% 0%;
   padding: 20px;
 }
 #jonathan {
@@ -83,8 +86,8 @@ img {
     display: grid;
     padding: 60px 20px;
     justify-content: center;
-    grid-template-columns: 880px 256px;
-    grid-template-rows: 575px;
+    grid-template-columns: 880px 235px;
+    grid-template-rows: 585px;
   }
   .grid-1 {
     display: grid;
@@ -99,5 +102,9 @@ img {
   }
   #kira {
     margin-left: 20px;
+  }
+  #kira-name,
+  #jeanette-name {
+    color: hsl(219, 29%, 14%);
   }
 }
